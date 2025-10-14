@@ -1,3 +1,2 @@
-# FINAL-COURSEWORK-2-ICW
-ICW COURSEWORK2
-[Uploading climate-change-awareness-site…]()
+[index.html](https://github.com/user-attachments/files/22900308/index.html)
+[script.js](https://github.com/user-attachments/files/22900309/script.js)[style.css](https://github.com/user-attachments/files/22900310/style.css)
